@@ -1,0 +1,94 @@
+.navbar {
+	overflow: hidden;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.navbar a:hover {
+	background: gray;
+	color: white;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.car {
+    display: block;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.paragraph {
+	display: block;
+    padding: 0px;
+    margin-left: 450px;
+    margin-right: auto;
+    width: 40%;
+}
+
+.num {
+	display: block;
+    padding: 5px;
+    margin-left: 525px;
+    margin-right: auto;
+    width: 40%;
+}
+
+.contact {
+	display: block;
+    padding: 50px;
+    margin-left: 450px;
+    margin-right: auto;
+    width: 40%;
+}
+
+.button {
+    padding: 10px;
+    margin-left: 510px;
+    margin-right: auto;
+    width: 10%;
+}
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: black; /* Green */
+    color: white;
+}
+
+.dropdown {
+	padding: 10px;
+    margin-left: 300px;
+    margin-right: auto;
+    width: 50%;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table, th, td {
+    border: 1px solid black;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+}
+
+
+
+
